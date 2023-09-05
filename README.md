@@ -1,5 +1,5 @@
 # Travel
-## [Резульат](https://regemler.github.io/Travel/)
+## [Результат](https://regemler.github.io/Travel/)
 ## Ключевые навыки:
 
 - экспорт стилей и графики из Figma
